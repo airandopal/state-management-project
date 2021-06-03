@@ -3,7 +3,7 @@
 
 
 ## So, what's the project?
-I discovered a brilliant starter by [@ndimatteo](https://twitter.com/ndimatteo), and I'm all about standing on the shoulders of giants and wise people. Instead of having to setup a headless commerce starter from scratch, I will be able to focus on a few key practices that I would like to include in projects I work on.
+I discovered a [brilliant starter](https://github.com/ndimatteo/HULL) by [@ndimatteo](https://twitter.com/ndimatteo), and I'm all about standing on the shoulders of giants and wise people. Instead of having to setup a headless commerce starter from scratch, I will be able to focus on a few key practices that I would like to include in projects I work on.
 
 ## Development Goals
 - Refactoring to use state machines 
